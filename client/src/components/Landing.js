@@ -2,10 +2,12 @@ import React from 'react';
 
 const Landing = () => {
     return (
-        <div style={{ textAlign: 'center'}}>
+        <div style={{textAlign: 'center'}}>
             <h1>
-                Landing
+                Landing Page
             </h1>
         </div>
     )
 };
+
+export default Landing;
